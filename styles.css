@@ -155,9 +155,11 @@ button:hover {
 #vision h2 {
     margin-bottom: 12px;
     font-weight: 700;
-    color: #eee;
+    color: #000000;
+
 }
 
 #vision p {
     margin-bottom: 15px;
+    color: #666;
 }
